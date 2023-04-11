@@ -1,0 +1,5 @@
+name: my_env
+channels:
+  - conda-forge
+  - defaults
+prefix: /home/jacob/miniconda3/envs/my_env
