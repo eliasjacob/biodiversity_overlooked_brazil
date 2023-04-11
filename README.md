@@ -1,4 +1,5 @@
 # Biodiversity is Overlooked in the Diets of Different Social Groups in Brazil  
+### This repository contains the code and data needed to reproduce the results of the paper.
 ## This README file will be updated once the paper is published.
 
 [![Paper](https://zenodo.org/badge/doi/10.1371/journal.pone.XXXX.svg)](https://doi.org/10.1371/journal.pone.XXX)
