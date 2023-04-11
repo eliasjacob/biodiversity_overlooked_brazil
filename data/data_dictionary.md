@@ -1,4 +1,4 @@
-# Here's a data dictionary for the dataset:
+# Dictionary for the dataset:
 
 | Column                       | Description                              | Data Type | Example Values                              |
 |:-----------------------------|:-----------------------------------------|:----------|:--------------------------------------------|
@@ -17,3 +17,5 @@
 | **region**                   | Name of the Brazilian region             | String    | Nordeste, Sul, Centro Oeste                |
 | **is_caucasian**             | Boolean flag indicating if the individual is Caucasian (1=yes, 0=no) | Integer | 1, 0                              |
 | **is_rural**                 | Boolean flag indicating if the individual lives in Rural areas (1=yes, 0=no) | Integer | 1, 0                            |
+
+Shape: 1,545 rows, 15 columns
