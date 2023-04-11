@@ -1,4 +1,5 @@
 # Biodiversity is Overlooked in the Diets of Different Social Groups in Brazil  
+## This README file will be updated once the paper is published.
 
 [![Paper](https://zenodo.org/badge/doi/10.1371/journal.pone.XXXX.svg)](https://doi.org/10.1371/journal.pone.XXX)
 
@@ -11,7 +12,15 @@ Food biodiversity is essential for improving nutrition and reducing hunger in po
 ## How to run   
 1 - Clone this project
 
-2 - Run the notebooks on the folder `notebooks/`
+2 - Install the environment
+
+```bash
+cd paper_biodiversity_overlooked
+conda env create --file environment.yaml
+conda activate paper_biodiversity_overlooked
+```
+
+3 - Run the notebooks on the folder `notebooks/`
 
 
 ### Citation   
